@@ -32,7 +32,8 @@ public class ManCollection implements DocumentCollection {
 		if (currIndex == totalCommands){
 			return null;
 		}
-		String nameParts = listOfCommands[currIndex].split(".1");
+        System.out.println(listOfCommands[currIndex]);
+		String[] nameParts = listOfCommands[currIndex].getName().split(".1");
 		String comName = nameParts[0];//listOfCommands[currIndex].getName();
 		//logger.info("Command :"+ comName);
 		System.out.println(" -- Command: "+ comName + " -- ");
@@ -53,10 +54,13 @@ public class ManCollection implements DocumentCollection {
 				nameStart = true;
 				continue;
 			}
+            /*
 			if (currSection.equalsIgnoreCase("name")){
 				name = line;
 			}
+            */
 			
+        }
 			fr.close();
 			br.close();
 			currIndex++;
