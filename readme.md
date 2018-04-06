@@ -1,6 +1,6 @@
 # shellhelp
 
-A command-line tool that heavily relies on Information Retrieval concepts o 
+A command-line tool that indexes man pages for command retrieval.  
 
 ## Getting Started
 `TODO`
