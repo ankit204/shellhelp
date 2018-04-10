@@ -1,6 +1,6 @@
 # shellhelp
 
-A command-line tool that indexes man pages for command retrieval.  
+A command-line tool that indexes Linux manual pages for command retrieval.  
 
 ## Getting Started
 `TODO`
