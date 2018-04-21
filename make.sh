@@ -1,4 +1,4 @@
-rm -f PreProcessData/*.class
-javac PreProcessData/ManCollection.java
-java PreProcessData.ManCollection
+rm -f PreProcessData/*.class *.class
+javac PreProcessRepo.java PreProcessData/ManCollection.java
+java PreProcessRepo
 

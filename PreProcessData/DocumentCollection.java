@@ -20,6 +20,6 @@ public interface DocumentCollection {
 	 * 
 	 * @return The next document stored in the collection; or null if it is the end of the collection file.
 	 */
-	public abstract Map<String,Object> nextDocument() throws IOException;
+	public abstract Map<String,String> nextDocument() throws IOException;
 	
 }
