@@ -1,0 +1,38 @@
+<top>
+<num> Number: 1
+<title> copy files locally
+</top>
+
+<top>
+<num> Number: 2
+<title> copy a file to server
+</top>
+
+<top>
+<num> Number: 3
+<title> process id for running process
+</top>
+
+
+<top>
+<num> Number: 4
+<title> run the process in background
+</top>
+
+<top>
+<num> Number: 5
+<title> print current time
+</top>
+
+<top>
+<num> Number: 6
+<title> how do I change login password
+</top>
+<top>
+<num> Number: 7
+<title> list all open files in a directory
+</top>
+<top>
+<num> Number: 8
+<title> remove a directory
+</top>
