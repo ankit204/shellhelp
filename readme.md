@@ -12,10 +12,10 @@ A command-line tool that indexes Linux manual pages for command retrieval.
 * Clone the project.
 * Place `man1` (manual directory to be indexed) in `data`.
 * Run:
-`./make`
+`./make.sh`
 
 ## Running the tests
-Run: `./make test`
+Run: `./make.sh test`
 
 Example output:
 ```
