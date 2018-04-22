@@ -37,8 +37,14 @@ Example output:
 8	remov directori
 8 Q0 rmdir.p 1 8.941874504089355
 ```
-### Break down into end to end tests
-`TODO`
+### Add/Modify test cases
+You can add/modify testcases by changing `data/topics.txt`. Just follow the tempalate below and add a custom query string as follows:
+```
+<top>
+<num> Number: #
+<title> Your query string goes here
+</top>
+```
 
 
 ## Deployment
