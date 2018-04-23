@@ -1,4 +1,4 @@
-# shellhelp
+# superMAN
 
 A command-line tool that indexes Linux manual pages for command retrieval.  
 
